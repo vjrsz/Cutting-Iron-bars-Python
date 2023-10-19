@@ -89,7 +89,7 @@ This project implements 3 algorithms used to calculate the profit.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/vjrsz/Fibonacci-Sequence-Python.git
+   git clone https://github.com/vjrsz/Cutting-Iron-bars-Python.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -124,16 +124,16 @@ Have fun exploring Calculator in Vue.js! thanks!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/vjrsz/Fibonacci-Sequence-Python.svg?style=for-the-badge
-[contributors-url]: https://github.com/vjrsz/Fibonacci-Sequence-Python/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/vjrsz/Fibonacci-Sequence-Python.svg?style=for-the-badge
-[forks-url]: https://github.com/vjrsz/Fibonacci-Sequence-Python/network/members
-[stars-shield]: https://img.shields.io/github/stars/vjrsz/Fibonacci-Sequence-Python.svg?style=for-the-badge
-[stars-url]: https://github.com/vjrsz/Fibonacci-Sequence-Python/stargazers
-[issues-shield]: https://img.shields.io/github/issues/vjrsz/Fibonacci-Sequence-Python.svg?style=for-the-badge
-[issues-url]: https://github.com/vjrsz/Fibonacci-Sequence-Python/issues
-[license-shield]: https://img.shields.io/github/license/vjrsz/Fibonacci-Sequence-Python.svg?style=for-the-badge
-[license-url]: https://github.com/vjrsz/Fibonacci-Sequence-Python/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/vjrsz/Cutting-Iron-bars-Python.svg?style=for-the-badge
+[contributors-url]: https://github.com/vjrsz/Cutting-Iron-bars-Python/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/vjrsz/Cutting-Iron-bars-Python.svg?style=for-the-badge
+[forks-url]: https://github.com/vjrsz/Cutting-Iron-bars-Python/network/members
+[stars-shield]: https://img.shields.io/github/stars/vjrsz/Cutting-Iron-bars-Python.svg?style=for-the-badge
+[stars-url]: https://github.com/vjrsz/Cutting-Iron-bars-Python/stargazers
+[issues-shield]: https://img.shields.io/github/issues/vjrsz/Cutting-Iron-bars-Python.svg?style=for-the-badge
+[issues-url]: https://github.com/vjrsz/Cutting-Iron-bars-Python/issues
+[license-shield]: https://img.shields.io/github/license/vjrsz/Cutting-Iron-bars-Python.svg?style=for-the-badge
+[license-url]: https://github.com/vjrsz/Cutting-Iron-bars-Python/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/vjrsz
 [email]: https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white
